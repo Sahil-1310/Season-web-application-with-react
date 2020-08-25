@@ -24,3 +24,10 @@ background-color: red;
      .summer{
     background-color: royalblue;
 }
+
+.season-display.summer i {
+    color: saddlebrown;
+}
+.season-display.summer i {
+    color: seagreen;
+}
